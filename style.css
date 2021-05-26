@@ -1,0 +1,23 @@
+body {
+    text-align: center; 
+}
+.navbar-inverse {
+    background-color: black;
+}
+
+.plagurism_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.plagurism i {
+    float: right;
+}
+
+.plagurism_text span {
+    color: #ff7700;
+}
